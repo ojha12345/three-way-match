@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-
+//writing final changes
 const connectDB = async () => {
   const uri = process.env.MONGODB_URI;
   if (!uri) {
