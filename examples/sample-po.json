@@ -1,0 +1,26 @@
+{
+  "documentType": "po",
+  "poNumber": "CI4PO05788",
+  "poDate": "2026-03-17",
+  "vendorName": "GALA NO 5/17 AB",
+  "billingAddress": "CLOUDSTORE RETAIL PRIVATE LIMITED, B-400, One K- Square Park, K-Square Industrial & Logistics Park, Before Padgha Toll naka, Nashik-Mumbai Highway, Padgha-Bhiwandi, Mumbai, Maharashtra - 421101, India",
+  "shippingAddress": "CLOUDSTORE RETAIL PRIVATE LIMITED, B-400, One K- Square Park, K-Square Industrial & Logistics Park, Before Padgha Toll naka, Nashik-Mumbai Highway, Padgha-Bhiwandi, Mumbai, Maharashtra - 421101, India",
+  "items": [
+    {
+      "itemCode": "11423",
+      "description": "Cheesy Spicy Veg Momos 24.0 Pieces",
+      "quantity": 50,
+      "uom": "Pieces",
+      "hsnCode": "19022010",
+      "brand": "Band_2"
+    },
+    {
+      "itemCode": "11797",
+      "description": "Meatigo Hot Wings 250.0 g",
+      "quantity": 75,
+      "uom": "g",
+      "hsnCode": "02071400",
+      "brand": "Band_3"
+    }
+  ]
+}

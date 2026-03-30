@@ -1,0 +1,15 @@
+{
+  "poNumber": "CI4PO05788",
+  "status": "matched",
+  "mismatchReasons": [],
+  "documents": {
+    "poCount": 1,
+    "grnCount": 1,
+    "invoiceCount": 1
+  },
+  "summary": {
+    "totalPoItems": 31,
+    "matchedItems": 31,
+    "unmatchedItems": 0
+  }
+}
